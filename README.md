@@ -1,1 +1,1 @@
-# Hibernate
+# StudentDatabase
